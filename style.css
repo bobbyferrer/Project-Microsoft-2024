@@ -1,0 +1,81 @@
+.brand-title {
+    font-size: 20px;
+    /* margin: 0px 0px 100px 0px; */
+}
+
+.nav-link {
+    margin-left: 160px;
+}
+
+.logo {
+    margin-left: 40px;
+}
+
+.section-banner {
+    height: 100px;
+}
+
+.banner-link {
+    margin-left: 20px;
+    font-weight: bold;
+    
+}
+
+.banner-link:hover {
+    text-decoration: underline #2196f3;
+}
+
+.brand-link {
+    text-decoration: underline #2196f3;
+}
+
+.card-content {
+    height: 300px;
+}
+
+.follow-text {
+    margin-left: 20px;
+    // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800
+
+/* .open-sans-<uniquifier> {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  } */
+
+  font-family: "Open Sans", sans-serif;
+}
+
+.fa-icons {
+    margin: 15px;
+}
+
+.micro-link {
+    line-height: 2.3;
+    font-size: smaller;
+}
+
+
+.micro-link:hover {
+    text-decoration: underline;
+    
+
+}
+
+.row-footer {
+    margin: 20px;
+}
+
+.micro-link-copyright {
+    line-height: 2.3;
+    font-size: smaller;
+    margin: 0 10px;
+}
+
+.micro-link-copyright:hover {
+    text-decoration: underline;
+}
